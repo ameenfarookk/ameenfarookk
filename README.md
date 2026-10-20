@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Muhammad Ameen bin Mohamed Farook
+
+I am a first year data engineering student at UTM
+
 <!--
 **ameenfarookk/ameenfarookk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
