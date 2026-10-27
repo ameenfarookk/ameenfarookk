@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Profile Image -->
-  <img src="https://github.com/photo.png" width="160" height="160" style="border-radius: 50%;" alt="Muhammad Ameen" />
+  <img src="https://github.com/photo.jpeg" width="160" height="160" style="border-radius: 50%;" alt="Muhammad Ameen" />
 
   # Hi there, I'm Muhammad Ameen 👋
   
